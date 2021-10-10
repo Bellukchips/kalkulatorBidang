@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">kalkulatorBangun</string>
+    <string name="judulmenu">Kalkulator Bangun\nDatar dan Ruang</string>
+    <string name="bangun_ruang">Bangun Ruang</string>
+    <string name="bangun_datar">Bangun Datar</string>
+    <string name="data_item">Data Item</string>
+    <string name="title_field">Title Field</string>
+    <string name="calculate">Calculate</string>
+    <string name="result_calculate">Result Calculate</string>
+    <string name="ex_10">ex : 10</string>
+    <string name="ex_11">ex : 11</string>
+</resources>
